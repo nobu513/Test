@@ -1,0 +1,9 @@
+~/Library/Saved Application State/com.microsoft.VSCode.savedState
+~/Library/Preferences/com.microsoft.VSCode.plist
+~/Library/Preferences/com.microsoft.VSCode.helper.plist
+~/Library/Preferences/ByHost/com.microsoft.VSCode.ShipIt.????????.plist
+~/Library/Logs/Code
+~/Library/Caches/com.microsoft.VSCode.ShipIt
+~/Library/Caches/com.microsoft.VSCode
+~/Library/Application Support/Code
+~/.vscode
